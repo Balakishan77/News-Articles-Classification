@@ -1,7 +1,7 @@
 # ML---News-Category
-Can you categorize news articles based on their headlines and short descriptions?
+To categorize news articles based on their headlines and short descriptions?
 
-Acknowledgements
+Acknowledgements:
 I have taken this HuffPost dataset from Kaggle to practise purpose only If this is against the TOS, please let me know and I will take it down.
 
 
