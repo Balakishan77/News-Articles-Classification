@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jun 29 20:03:53 2018
-@author: iit
-Can you categorize news articles based on their headlines and short descriptions?
+@author: Balakishan
+To categorize news articles based on their headlines and short descriptions
 
 
 """
