@@ -1,4 +1,5 @@
 # ML---News-Category
+[It is not yet completed , I have Implemented using machine learning algorithms and the accuracy is saturating at ~3.5. I am currently implementing Neural Networks to get a better model]
 To categorize news articles based on their headlines and short descriptions?
 
 Acknowledgements:
